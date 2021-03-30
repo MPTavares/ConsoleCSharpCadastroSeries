@@ -1,0 +1,15 @@
+E:\Mysites\Learning\CadastroSeriesConsole\CadastroSeriesConsole\obj\Debug\netcoreapp3.1\CadastroSeriesConsole.csprojAssemblyReference.cache
+E:\Mysites\Learning\CadastroSeriesConsole\CadastroSeriesConsole\obj\Debug\netcoreapp3.1\CadastroSeriesConsole.AssemblyInfoInputs.cache
+E:\Mysites\Learning\CadastroSeriesConsole\CadastroSeriesConsole\obj\Debug\netcoreapp3.1\CadastroSeriesConsole.AssemblyInfo.cs
+E:\Mysites\Learning\CadastroSeriesConsole\CadastroSeriesConsole\obj\Debug\netcoreapp3.1\CadastroSeriesConsole.csproj.CoreCompileInputs.cache
+E:\Mysites\Learning\CadastroSeriesConsole\CadastroSeriesConsole\bin\Debug\netcoreapp3.1\CadastroSeriesConsole.exe
+E:\Mysites\Learning\CadastroSeriesConsole\CadastroSeriesConsole\bin\Debug\netcoreapp3.1\CadastroSeriesConsole.deps.json
+E:\Mysites\Learning\CadastroSeriesConsole\CadastroSeriesConsole\bin\Debug\netcoreapp3.1\CadastroSeriesConsole.runtimeconfig.json
+E:\Mysites\Learning\CadastroSeriesConsole\CadastroSeriesConsole\bin\Debug\netcoreapp3.1\CadastroSeriesConsole.runtimeconfig.dev.json
+E:\Mysites\Learning\CadastroSeriesConsole\CadastroSeriesConsole\bin\Debug\netcoreapp3.1\CadastroSeriesConsole.dll
+E:\Mysites\Learning\CadastroSeriesConsole\CadastroSeriesConsole\bin\Debug\netcoreapp3.1\CadastroSeriesConsole.pdb
+E:\Mysites\Learning\CadastroSeriesConsole\CadastroSeriesConsole\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Mysites\Learning\CadastroSeriesConsole\CadastroSeriesConsole\obj\Debug\netcoreapp3.1\CadastroSeriesConsole.csproj.CopyComplete
+E:\Mysites\Learning\CadastroSeriesConsole\CadastroSeriesConsole\obj\Debug\netcoreapp3.1\CadastroSeriesConsole.dll
+E:\Mysites\Learning\CadastroSeriesConsole\CadastroSeriesConsole\obj\Debug\netcoreapp3.1\CadastroSeriesConsole.pdb
+E:\Mysites\Learning\CadastroSeriesConsole\CadastroSeriesConsole\obj\Debug\netcoreapp3.1\CadastroSeriesConsole.genruntimeconfig.cache

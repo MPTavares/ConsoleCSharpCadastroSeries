@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HYb37IsMwSAKvUvs+BtUDpzZDPUwmG9u/d+SBveKZf4isZCLlqaxOn8O/QSBt4hMS8zPDHx2SxFtwTRaHcRLuQ==",
+  "success": true,
+  "projectFilePath": "E:\\Mysites\\Learning\\CadastroSeriesConsole\\CadastroSeriesConsole\\CadastroSeriesConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\conta\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
